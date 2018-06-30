@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "VideoToGifManager"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "用于视频转换成gif图片"
 
   s.description  = <<-DESC
